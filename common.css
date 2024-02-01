@@ -1,0 +1,22 @@
+.js-animals{
+    list-style: none;
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 3px;
+    width: fit-content;
+    min-width: 200px;
+}
+
+.gallery-img{
+    width: 200px;
+    height: 200px;
+}
+
+.gallery{
+    display: flex;
+}
+
+.gallery-img{
+    flex-grow:calc(3 +3 );
+}
