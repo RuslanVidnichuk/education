@@ -139,4 +139,4 @@
 //     imagesListItem.insertAdjacentHTML('beforeend', murkup)
 // }
 
-// renderImages();
+ renderImages();
